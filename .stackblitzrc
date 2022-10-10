@@ -1,0 +1,6 @@
+{
+  "env": {
+    "SUPABASE_URL": "https://uatjvleasbjiabbjejqq.supabase.co",
+    "SUPABASE_KEY": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJzdXBhYmFzZSIsInJlZiI6InVhdGp2bGVhc2JqaWFiYmplanFxIiwicm9sZSI6ImFub24iLCJpYXQiOjE2NjUwMDA1NzUsImV4cCI6MTk4MDU3NjU3NX0.P1MdiuiKqV7HN4ndZjot924JjUeLGDq_mrCotUyGNRI"
+  }
+}
